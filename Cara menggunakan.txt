@@ -1,0 +1,2 @@
+1. Install Selenium IDE di Browser
+2. Open File QASelenumTest.side
